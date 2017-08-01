@@ -37,6 +37,6 @@
 开启飞行模式 -> 关闭飞行模式
 5.实在不行通用方法
 拔网线(断网) -> 插网线(重新连接网络)
-> 下载地址：[hosts](https：//github.com/xkloveme/hosts/archive/master.zip)
+> 下载地址：[hosts](https://github.com/xkloveme/hosts/archive/master.zip)
 ## 写在最后
 请低调使用。
